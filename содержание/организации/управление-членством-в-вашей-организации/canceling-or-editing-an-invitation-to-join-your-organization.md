@@ -1,3 +1,4 @@
+[000003.log](https://github.com/github/docs/files/8066392/000003.log)
 ---
 title: Canceling or editing an invitation to join your organization
 intro: Organization owners can edit or cancel an invitation to become a member of your organization any time before the user accepts.
